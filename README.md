@@ -13,3 +13,4 @@ Código fuente de la presentación utilizada en la charla.
 
 - Ricardo Ramírez
 - Raúl Bermúdez
+- Keneth Hernández
